@@ -212,7 +212,7 @@
                         </connections>
                     </tableView>
                     <navigationItem key="navigationItem" title="New To-Do" largeTitleDisplayMode="never" id="JEK-zs-wXz">
-                        <barButtonItem key="leftBarButtonItem" systemItem="cancel" id="H9O-2X-Xmz"/>
+                        <barButtonItem key="leftBarButtonItem" systemItem="cancel" id="H9O-2X-Xmz">
                             <connections>
                                 <segue destination="ayL-DD-h06" kind="unwind" unwindAction="unwindToToDoListWithSegue:" id="HLq-sE-LZh"/>
                             </connections>
