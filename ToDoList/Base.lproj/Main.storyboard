@@ -216,6 +216,7 @@
                             <connections>
                                 <segue destination="ayL-DD-h06" kind="unwind" unwindAction="unwindToToDoListWithSegue:" id="HLq-sE-LZh"/>
                             </connections>
+                        </barButtonItem>
                         <barButtonItem key="rightBarButtonItem" systemItem="save" id="aC7-Jp-pkn">
                             <connections>
                                 <segue destination="ayL-DD-h06" kind="unwind" identifier="saveUnwind" unwindAction="unwindToToDoListWithSegue:" id="mbV-LD-4ke"/>
